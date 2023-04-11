@@ -1,0 +1,11 @@
+h1{
+    color: deeppink;
+    text-shadow: 3px 3px 7px blue;
+    font-family: 'Ink Free';
+    text-align: center;
+}
+pre{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
